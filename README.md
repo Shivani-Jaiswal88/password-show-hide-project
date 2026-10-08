@@ -3,11 +3,11 @@
 . [Live Link](https://shivani-jaiswal88.github.io/password-show-hide-project/)
 
 # Features
-. Show password
-. Hide password
-. Simple and easy to use
+1. Show password
+2. Hide password
+3. Simple and easy to use
 
 # Technologies Used
-. HTML5
-. CSS
-. JAVASCRIPT
+1. HTML5
+2. CSS
+3. JAVASCRIPT
